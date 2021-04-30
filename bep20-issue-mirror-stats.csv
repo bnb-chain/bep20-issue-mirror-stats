@@ -1,1 +1,2 @@
-name,symbol,total_supply,decimals,mintable,owner,proxy_admin,bep20_addr,deploy_txhash,mirror_txhash,bep2_symbol
+name,symbol,total_supply,decimals,mintable,owner,proxy_admin,bep20_addr,deploy_txhash,mirror_txhash,bep2_symbol,Category
+wazirx token,WRX,5900000000000000,8,true,0xF68a4b64162906efF0fF6aE34E2bB1Cd42FEf62d,0xd2f93484f2d319194cba95c5171b18c1d8cfd6c4,0x8e17ed70334C87eCE574C9d537BC153d8609e2a3,0x00ce4579ebee7af23c10f961eb85dadfb0c668ffc023b1fc3836dca8d524b71f,,,BToken
