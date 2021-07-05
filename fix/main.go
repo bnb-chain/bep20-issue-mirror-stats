@@ -1,4 +1,4 @@
-package fix
+package main
 
 import (
 	"encoding/csv"
@@ -41,7 +41,7 @@ func WriteCSV(fname string, records [][]string) error {
 }
 
 func main() {
-	records, err := ParseCSV("bep20-issue-mirror-stats.csv")
+	records, err := ParseCSV("../bep20-issue-mirror-stats.csv")
 	if err != nil {
 		panic(err)
 	}
